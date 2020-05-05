@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\bin\Debug\MyBookStore.exe.config
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\bin\Debug\MyBookStore.exe
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\bin\Debug\MyBookStore.pdb
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Form1.resources
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.Properties.Resources.resources
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.exe
+C:\Users\mypc\source\repos\MyBookStore\MyBookStore\obj\Debug\MyBookStore.pdb
